@@ -14,7 +14,7 @@ print(average_count)
 
 result = pd.DataFrame()
 result["count"] = average_count
-result["point"] = average_points
+result["points"] = average_points
 
 print(result)
 
